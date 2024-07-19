@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    .nav{
+     background-color:rgba(00, 00, 00, 0.2);
+    color: white;
+    position: fixed;
+    display: flex;
+        justify-content: space-between;
+        padding: 0px 50px;
+        margin: 0;
+        width: 100%;
+    }
+    
+    
+    .one{
+        background-image: url(images/NROL_186_San_Ynez_2815_Desktop_524f6c1cb9.jpg);
+        margin: 0px;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 20px;
+   
+   
+    }
+    .two{
+        background-image: url(images/Star10_3_062724_DSC_8219_desktop_28f4368e42.jpg);
+        margin: 0px;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 20px;
+    
+
+    }
+    .three{background-image: url(images/GOES_U_rampengine_DSC_5719_desktop_80888fb22d.jpg);
+        margin: 0px;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 20px;
+    
+
+    }
+    .four{
+        background-image: url(images/make_life_multiplanetary_desktop_3fa7cff73c.jpg);
+        margin: 0px;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 20px;
+    
+
+    }
+    .five{background-image: url(images/Eva_Suit_Desktop_alternate_1cf9bae18e.jpg);
+        margin: 0px;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 20px;
+
+    
+
+    }
+    footer{
+        
+        background-color: black;
+        display:flex;
+        text-align: center;
+        justify-content:space-around;
+      
+        color: white;
+    
+    }
+    button {
+       height: 30px;
+        margin: 10px;
+        color: white;
+        border-color: white;
+        background-color: rgba(00, 00, 00, 0.0);
+        cursor: pointer;
+    } 
+    button:hover{
+        
+        background-color: white;
+    }
+
+    ul{
+        justify-content: space-between;
+        list-style-type: none;
+        gap: 30px;
+    }
+    a{
+        text-decoration: none;
+    }
+    
+  
